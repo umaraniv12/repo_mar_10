@@ -15,3 +15,4 @@ fmt.Println("hello world")
   fmt.Println("hii all")
 }
 >>>>>>> 3880118af78f951b6ce8826d0d63d1161003f71f
+ex
